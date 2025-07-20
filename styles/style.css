@@ -111,6 +111,7 @@ body {
 
 .apresentacao__imagem {
     width: 50%;
+    height: auto;
 }
 
 .rodape {
